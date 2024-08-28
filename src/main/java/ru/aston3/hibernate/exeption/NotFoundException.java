@@ -1,4 +1,4 @@
-package org.example.exeption;
+package ru.aston3.hibernate.exeption;
 
 public class NotFoundException extends Exception {
     public NotFoundException(String message) {

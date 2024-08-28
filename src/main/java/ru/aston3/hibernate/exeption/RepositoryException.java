@@ -1,4 +1,4 @@
-package org.example.exeption;
+package ru.aston3.hibernate.exeption;
 
 import java.sql.SQLException;
 

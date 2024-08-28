@@ -1,4 +1,4 @@
-package org.example.util;
+package ru.aston3.hibernate.util;
 
 import java.io.InputStream;
 import java.util.Properties;
